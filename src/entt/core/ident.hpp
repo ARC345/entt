@@ -5,7 +5,7 @@
 #include <type_traits>
 #include <utility>
 #include "../config/config.h"
-#include "fwd.hpp"
+#include "fwd.hpp" // IWYU pragma: export
 #include "type_traits.hpp"
 
 namespace entt {

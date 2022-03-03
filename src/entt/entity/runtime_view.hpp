@@ -8,7 +8,7 @@
 #include <vector>
 #include "../config/config.h"
 #include "entity.hpp"
-#include "fwd.hpp"
+#include "fwd.hpp" // IWYU pragma: export
 #include "sparse_set.hpp"
 
 namespace entt {

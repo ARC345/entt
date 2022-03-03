@@ -10,7 +10,7 @@
 #include "../core/type_traits.hpp"
 #include "../signal/delegate.hpp"
 #include "entity.hpp"
-#include "fwd.hpp"
+#include "fwd.hpp" // IWYU pragma: export
 #include "registry.hpp"
 #include "storage.hpp"
 
